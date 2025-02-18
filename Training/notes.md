@@ -74,8 +74,15 @@ Link del curso: [UdemyLink](https://deloittedevelopment.udemy.com/course/azure-a
    - **Videos:**
      -  9
      - 	10
+       -Rebranding names as the image says
+       -  ![image](https://github.com/user-attachments/assets/6326012c-8ed0-4bd0-84c8-c36a7d28f4c5)
      - 	11
+       -Links for the updated courses
+       - https://portal.vision.cognitive.azure.com/demo/dense-captioning
+       - https://portal.vision.cognitive.azure.com/demo/face-detection
+       - https://portal.vision.cognitive.azure.com/demo/video-summary-and-frame-locator
      - 	12
+       - Computer Vision AI demos  
      - 	13
      - 	14
      - 	15
