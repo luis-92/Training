@@ -65,7 +65,11 @@ Link del curso: [UdemyLink](https://deloittedevelopment.udemy.com/course/azure-a
         - Analyze large dataset Knowlede minin worload
         - Automate invoice processing - Document intellicence worliads
         - Createing new images or text base Generative AI	 	
-     - 	
+     - 	9
+       -  Pre Trainiedmodels
+         - Congnitice servies is to use AI without bubiuling custommodles
+         - Help programs see hear speaj search just like human
+            - Get intellicence from image videos text audio  Language Understaingin Intelligent Services LUIS      
 3. **Section 3: [Ai 900 - Microsoft Azure AI Fundamentals - Exploring Cognitive Services]**
    - **Videos:**
      -  9
