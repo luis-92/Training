@@ -55,10 +55,16 @@ Link del curso: [UdemyLink](https://deloittedevelopment.udemy.com/course/azure-a
          	- AL focuseson learning from data is Machine learning
           	- HIw is ML deifferent  from programin, traditiional promgrain is ruels machine learning is examples
            	- Azure services use pretrained models uisng the congitice services
-            	- Azure services hel build simple modles not needing data scienties with Azuzre macine learning, autmate machine elarning
-             	- Service for xomplex ML modles use azure machine learning      		 	
+            - Azure services hel build simple modles not needing data scienties with Azuzre macine learning, autmate machine elarning
+            - Service for xomplex ML modles use azure machine learning      		 	
      - 	8
-     	-	 	
+     	-	 	Different Tyoes of AI workloads
+        - Filter innapropiete content on social media ---is content moderation and personalizarion
+        - Facial reconfition is computer vision worlioads
+        - Language translation - Natural Langage workloadds
+        - Analyze large dataset Knowlede minin worload
+        - Automate invoice processing - Document intellicence worliads
+        - Createing new images or text base Generative AI	 	
      - 	
 3. **Section 3: [Ai 900 - Microsoft Azure AI Fundamentals - Exploring Cognitive Services]**
    - **Videos:**
