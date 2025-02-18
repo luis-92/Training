@@ -1,7 +1,7 @@
 
 3-------------------------------------------------
 
-  # NOTES - AI 900 - Microsoft Azure AI Fundamentals
+# NOTES - AI 900 - Microsoft Azure AI Fundamentals
 
 Types of AI
 **Strong artificial intelligence or general AI**
