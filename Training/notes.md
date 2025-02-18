@@ -1,5 +1,8 @@
 
 3-------------------------------------------------
+
+  # NOTES - AI 900 - Microsoft Azure AI Fundamentals
+
 Types of AI
 **Strong artificial intelligence or general AI**
 Machin taht solve prplemas leanr and plan the future
@@ -14,7 +17,6 @@ W are far way frm achevigint his estimate few decades
 
 
 
-  # AI 900 - Microsoft Azure AI Fundamentals
 
 Thank You for Choosing to Learn from in28Minutes.
 
