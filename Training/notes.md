@@ -77,12 +77,16 @@ Link del curso: [UdemyLink](https://deloittedevelopment.udemy.com/course/azure-a
        -Rebranding names as the image says
        -  ![image](https://github.com/user-attachments/assets/6326012c-8ed0-4bd0-84c8-c36a7d28f4c5)
      - 	11
-       -Links for the updated courses
+       -Links to check the microsfot demos very intersting you can see how it identifies images and vidioes in the ideos identifies the sentiment how many times a person appear the topic that they are discussin etc que mideo
        - https://portal.vision.cognitive.azure.com/demo/dense-captioning
        - https://portal.vision.cognitive.azure.com/demo/face-detection
        - https://portal.vision.cognitive.azure.com/demo/video-summary-and-frame-locator
+       - Important APIs
+         - Comuter vision - Analyze content in images and videos
+         - Face API - Detect and ientify peiple and emotiones in images
+         - Custom vision - Customize image recongnition to fit your business
      - 	12
-       - Computer Vision AI demos  
+       -   
      - 	13
      - 	14
      - 	15
