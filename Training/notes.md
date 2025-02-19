@@ -91,7 +91,20 @@ Link del curso: [UdemyLink](https://deloittedevelopment.udemy.com/course/azure-a
          - Face API - Detect and ientify peiple and emotiones in images
          - Custom vision - Customize image recongnition to fit your business 
      - 	13
+         - Exploring Vision - Some Terminology
+           - Image analysis: Extract tag frim image
+           - Image clasification in different groups
+           - Object detection class of object, condifence lever, coordinates aof a boudning box
+           - Face defection: defect uman faces for security, riends etc
+           - Optical character recongoniion  	  
      - 	14
+         - Getting started computing vision
+           - Es importante entender la jerarquia de todo esto
+           - Estos son los servicios
+           - ![image](https://github.com/user-attachments/assets/41a72e21-43ca-43e3-bc9e-a641d749cbe8)
+           - Computer vision API: PRocess images and return information, extract visual features frim image like description of image categorize what is in the image  etc
+           - Get Are of interest: most improtantarea of the image
+           - Get tThumbnail: generates image user specified widht and height 
      - 	15
      - 	16
      - 	17
