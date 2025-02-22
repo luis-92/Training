@@ -108,12 +108,42 @@ Link del curso: [UdemyLink](https://deloittedevelopment.udemy.com/course/azure-a
      - 	15
      - 	16
      - 	17
+       - 	 	
      - 	18
      - 	19
+       - OCEr Deetect text in an image
+         - Quick extraction of msall amounts of text
+         - Read Perform OCR on complex documents
+           -Otimized for text heave images or multipage documents   	
      - 	20
+           
      - 	21
+       - 	Face API
+       - Advanced Fce detection
+         - Age, emotions, similar faces,
+         - Remember Imrive acurecy o face detection
+         - Import concepts
+           - Quality of imagens
+           - Variery of images
+         - IMportant concepts
+           - Detect human aces, options to request for age gener gead psoe smile, facial hair etc
+           - Group Divide candaite faces  3 - 1000 into groups based on face similarity
+           - Identify: 1 to manu identification
+             - Find closes matches  of the specific query personface
+           - Verify: do two faces belong to same person?, doeas a facec belong to a specific person?      
+         	 	![image](https://github.com/user-attachments/assets/36ad4bdf-af03-4907-aa79-59d1e27a7ff0)
      - 	22
+       - Natural Language processiong
+         - get intelligence from a conversation, soeccg ir r=written  yhnab kabgyage ==, detect neabub =g drim ybstryctered text sebtunebt het ograses abd baned ebtutues
+         - Speech integrate spechinto apps and services
+           - Speech service: speech to text, text to speech, translation and speaker recognition
+         - Build conversation
+           QNA maker conversation question and answear layer
+           - Luis Language understanding Intelligent Service understand spoken and text commands and get info fromuser natural langeges utterances   	
      - 	23
+       - 	Exploring Text Analytics API natural language processiong (NLP)
+         - Text Analytics AI service sentiment analysus jey phrase exxtration and langeuage detectio
+         - Operations: detect language, entities containing personal information, hey phrases, named entity recognition
      - 	24
      - 	25
      - 	26
