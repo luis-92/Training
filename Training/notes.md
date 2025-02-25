@@ -147,13 +147,19 @@ Link del curso: [UdemyLink](https://deloittedevelopment.udemy.com/course/azure-a
      - 	24
      - 	25
      - 	26
+       - Exploring translation
+         - Translate languages and detect it
+         - Text to speech in any langugage
      - 	27
      - 	28
+       - 	You can create QnA service
      - 	29
      - 	30
      - 	31
      - 	32
      - 	33
+       - Finidin anomalyes this canb be used to find fraud transactions or any pattern that is nort normal and report and take decision based on that
+       - Content moderator detect unwanted post
      - 	34
      - 	35
      - 	36
