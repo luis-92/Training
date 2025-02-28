@@ -163,6 +163,40 @@ Link del curso: [UdemyLink](https://deloittedevelopment.udemy.com/course/azure-a
      - 	34
      - 	35
      - 	36
+    
+     - 	38 What is Gen AI
+       - 	![image](https://github.com/user-attachments/assets/2e4069d9-b348-49e7-9f9c-e6987fcb5805)
+       - 	Goal is generate new data samples based on the things that it learned
+       - 	![image](https://github.com/user-attachments/assets/b32c437d-245d-46f6-baf3-3841835b52be)
+     - 	40
+     - 	41
+       - 	![image](https://github.com/user-attachments/assets/fcc67250-4525-47e5-b8e9-8ad7fb468efd)
+     - 	44
+       - 	Gen AI models
+         - 		statistical modeles that learn to generate new data by analyzing exisitng data more data analyzxed better new data
+     - 45
+       - self supervisded learning: model leanrs from data itself withoyut require explicait lable;s or annotations
+       - ![image](https://github.com/user-attachments/assets/472adb4c-de63-4122-a7a1-1e9de541e80a)
+     - 46
+       - ![image](https://github.com/user-attachments/assets/645b7456-408e-46ac-bac0-2179878e24a4)
+     - 47 Loss Function
+       -  ![image](https://github.com/user-attachments/assets/864c3553-0fcc-4f95-8cc8-80aec6132207)
+     - **Section :*Building ML models*
+     - 53 Custom vison
+       - ![image](https://github.com/user-attachments/assets/81f6d3ad-f605-4267-bc13-a4b741f0933c)
+       - Undersztaan ding ML
+       - ![image](https://github.com/user-attachments/assets/683ad940-71a5-4eff-83d5-d634dc6b3608)  
+       - ![image](https://github.com/user-attachments/assets/296c5785-a10e-472e-92d7-d8073ac20b8d)
+       - ![image](https://github.com/user-attachments/assets/7ee9d4ed-dd9e-4d6c-ac03-39c796383cab)
+       - ![Uploading image.png…]()
+
+
+
+
+   
+         	
+
+
 
 ---
 
