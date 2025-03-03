@@ -33,10 +33,6 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
     - Immersive reader
 3. **Section 2: [Ai 900 - Microsoft Azure AI Fundamentals - Introto AI and ML]**
    - **Videos:**
-     -  3
-     -   4
-     -   5
-             
 
 
 
