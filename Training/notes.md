@@ -235,8 +235,16 @@ Link del curso: [UdemyLink](https://deloittedevelopment.udemy.com/course/azure-a
      - 69
        -    Scenarios for Custom ML models in azure
        -    ![image](https://github.com/user-attachments/assets/f2e620bc-5547-4dfb-889d-233b11020ebe)
-       -   ![Uploading image.png…]()
-     -  70 
+       -   ![image](https://github.com/user-attachments/assets/f40fab70-0856-46c4-8140-0f7e1aaebf44)
+     -  73 most important considerations
+       -  ![image](https://github.com/user-attachments/assets/2ac39bcb-914f-4fd5-877d-b2efb710cb34)
+       -  ![image](https://github.com/user-attachments/assets/0847384e-1957-4602-a830-4571f71e1f60)
+       -  ![image](https://github.com/user-attachments/assets/71f8a3f7-a74a-47e4-82a9-f37192f17194)
+       -  ![Uploading image.png…]()
+
+
+
+
  
 
 
