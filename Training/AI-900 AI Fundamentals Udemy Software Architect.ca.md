@@ -40,14 +40,29 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
          - fetures of genAI
         - All of them goes from 15 to 20% except for the fundamental principles  
 
-3. **Section 2: [Ai 900 - Microsoft Azure AI Fundamentals - Introto AI and ML]**
+3. **Section 2: Artificaion intelligence worloads and considerations**
    - **Videos:**
     -  1
-     	-  **Types of artificial intelligence:**
-        - 
-        - 
-        - 
-        - 
+     	-  **Common AI workloads**
+        - Prediction and demand forecasting 
+         - for example using the visitoirs an sales table what I can see is in the next image
+         - ![image](https://github.com/user-attachments/assets/c1fcc1c4-c457-4d4c-8aa1-7e335457e5ab)
+        - Using prediction models like google, netflix etc are examples of them suggesting series or searchs
+         - Second thing that AI can do is Anomaly Detection
+          - ![image](https://github.com/user-attachments/assets/e9022a5e-777d-4771-92be-8eab89742013)
+          - it can make a prediction based on anomaly detection
+         - Computer vision is another thing that can do with AI
+          - Create description of image
+          - Identify faces
+         - Natural Language processing
+          - related to this is Knowldege mining - cognitive search
+          - Ingest content from blob storagesm tablesm,sl databases
+         - Content moderator
+          - Find proganity, hateful, offensive, violent or phishing and image. It will support multi langague you can ser the severity of the category
+          - ![image](https://github.com/user-attachments/assets/efb1bc5b-ff38-40ec-ac47-d6cb9b04be22)
+         - Gen AI
+          - You can train bots to understand and create answers with new content based on a dataset. In other words it will create new content based on the dataset given to it.
+            
         - 
         - 
         - 
