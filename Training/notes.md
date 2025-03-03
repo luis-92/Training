@@ -188,7 +188,63 @@ Link del curso: [UdemyLink](https://deloittedevelopment.udemy.com/course/azure-a
        - ![image](https://github.com/user-attachments/assets/683ad940-71a5-4eff-83d5-d634dc6b3608)  
        - ![image](https://github.com/user-attachments/assets/296c5785-a10e-472e-92d7-d8073ac20b8d)
        - ![image](https://github.com/user-attachments/assets/7ee9d4ed-dd9e-4d6c-ac03-39c796383cab)
-       - ![Uploading image.png…]()
+       - ![image](https://github.com/user-attachments/assets/57776126-6c74-4d9b-a51a-33c61d36739c)
+     - 59
+       - ![image](https://github.com/user-attachments/assets/bc5461ac-5a78-4b3a-9282-a23880d5373a)
+       - ![image](https://github.com/user-attachments/assets/36c25d5a-ddeb-462d-abfc-0643017ec20b)
+     - 62
+       - Azure machine learning simplifies creation of models
+         -Manage data, code, compute, models etc
+         -prepare data
+         -train models
+         -publish models
+     - 63
+       - you can compute 4 difgferent ways
+         -   compute instances
+         -   ![image](https://github.com/user-attachments/assets/c26c1525-408e-4de3-9a7d-4f1a63f082c6)
+     - 64
+         -   Autmated ML, using this tool is simple and runs based on sample data like the diabetes one
+     - 65
+       - this image show the result of the ML training nonce is completed  ![image](https://github.com/user-attachments/assets/1dd0b024-8d9b-449a-840f-d53e25c20a2e)
+     - 66
+       - Mean Absolute Error |(MEAN): how close is a prediction to actuial valueL the lower the better
+       - Mean squared error
+     - 67
+       - Model evaluation
+         - Terminology:
+         - predicted label: what is predicted?
+         - True label: whats expecte?
+         - confusion matrix: MAtris matchinv predicted label vs true label
+         - ![image](https://github.com/user-attachments/assets/5ff4f5c5-9f58-4766-98aa-9f966adc9026)
+         - Example: Spam, fraud, sick, patient detection
+       - Metrics:
+         -  Accuracy: Proportion of accurate results
+         -  Precision:
+         -  Recall
+         -  F1 Score
+     -  68
+       - Scenarios
+       -   Azure ML terminology
+       -   Studio
+       -   Workspace
+         -   Azure machine learning designer
+           -Pipelines
+           -Datasets
+           -Module
+           -Compute
+     - 69
+       -    Scenarios for Custom ML models in azure
+       -    ![image](https://github.com/user-attachments/assets/f2e620bc-5547-4dfb-889d-233b11020ebe)
+       -   ![Uploading image.png…]()
+     -  70 
+ 
+
+
+
+
+         
+          
+
 
 
 
