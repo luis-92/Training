@@ -32,8 +32,13 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
     - Decisions
     - Immersive reader
 3. **Section 2: [Ai 900 - Microsoft Azure AI Fundamentals - Introto AI and ML]**
-   - **Videos:**
-
+ - **Videos:**
+     -  1
+     	-  **Types of artificial intelligence:**
+      		- Strong artificial intelligence or general AI
+        		- Machine that  solve problems learn and plan the future
+          		- An expert at evertything
+     			-Learns like a child
 
 
 
