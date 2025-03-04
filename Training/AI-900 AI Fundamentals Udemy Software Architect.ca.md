@@ -98,9 +98,10 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
   -  12
      	-  **Core machine learning concepts**
         - **Features and labels**
-        - Given a pile of data, you the data scientis need to determine which bits are relevant to maje decisions
-        - Example
-        - ![image](https://github.com/user-attachments/assets/d40694a0-42d7-4702-96d9-714eff8cc29d)
+          - Given a pile of data, you the data scientis need to determine which bits are relevant to maje decisions
+          - Example
+          - ![image](https://github.com/user-attachments/assets/d40694a0-42d7-4702-96d9-714eff8cc29d)
+          - 
  
 
 
