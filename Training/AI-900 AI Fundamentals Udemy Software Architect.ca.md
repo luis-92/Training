@@ -81,8 +81,10 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
       -  **Inclusiveness**
       -  **Transparency**
       -  **Accontability**
-    
-    
+   -  9
+     	-  **Guidelines Human-AI Interactions**
+       -  Microsoft has designb principles
+
 
           
 
