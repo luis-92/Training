@@ -101,7 +101,27 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
           - Given a pile of data, you the data scientis need to determine which bits are relevant to maje decisions
           - Example
           - ![image](https://github.com/user-attachments/assets/d40694a0-42d7-4702-96d9-714eff8cc29d)
-          - 
+        - **Training the Model**
+          - Use a part of data to train the model and use another part of data for validation, good practice is split the training and validation datasets randomly
+        - **Evaluate the results using regression**
+          - Use the vcalidation dataset to thest the model, mesaure how close or far the actual results are from thje [predicted results
+          - ***Mean Square Error** large diufferences are much that is for regression
+        - **Eva;uate the results for classification**
+          - ![image](https://github.com/user-attachments/assets/37f5e357-2399-45ea-9fe1-4e4457df365d)
+          - In the binbary classifications there are false positives vs false negatives
+          - Compare true positives with false positives and true negatives wth false negatives this is related with accuracy vs precision
+          - Example
+          - ![image](https://github.com/user-attachments/assets/0f15ebfe-fce0-4ed1-a631-d2c14c4b0670)
+          - ![image](https://github.com/user-attachments/assets/cbe4aa47-923e-44e6-9bf4-57c4d4b63a6f)
+          - ![image](https://github.com/user-attachments/assets/50413e82-7faf-4da4-8621-6cf0c52f3d40)
+          - ![image](https://github.com/user-attachments/assets/37e157fb-6d48-4945-b175-20169c631b24)
+          - ![image](https://github.com/user-attachments/assets/c34f1aaa-4f0b-417e-b7f1-aa480f9bed4d)
+
+
+
+
+
+
  
 
 
