@@ -84,9 +84,24 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
    -  9
      	-  **Guidelines Human-AI Interactions**
        -  Microsoft has designb principles
-
-
-          
+  -  10
+     	-  **ML common learning types**
+        - **Regression** you can do some predictions for ex in scale 0 10 how hoappy is someonw with the salary
+        - **Clasification** use cluster analysis so it has binary clasification so results is YEs or NOT
+        - **Clustering** Find groups of related thins among data Ex what traits do my best customer have in common
+  -  11
+     	-  **Deep learning**
+        - **AI**
+        - **Machine learning** 
+        - **Deep learning**
+        - ![image](https://github.com/user-attachments/assets/58f2765c-0843-4ef5-8cab-8baf71bd8f7c)
+  -  12
+     	-  **Core machine learning concepts**
+        - **Features and labels**
+        - Given a pile of data, you the data scientis need to determine which bits are relevant to maje decisions
+        - Example
+        - ![image](https://github.com/user-attachments/assets/d40694a0-42d7-4702-96d9-714eff8cc29d)
+ 
 
 
 
