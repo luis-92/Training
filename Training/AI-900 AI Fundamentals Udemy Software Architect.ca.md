@@ -78,7 +78,9 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
      	-  **Fairness**
       -  **Reliability and safety**
       -  **Privacy and security**
-      -  ****
+      -  **Inclusiveness**
+      -  **Transparency**
+      -  **Accontability**
     
     
 
