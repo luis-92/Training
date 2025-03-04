@@ -72,7 +72,7 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
           -  ETC
           -  Example: Facial recognition racial bias problem, amazon scraps secert AI recruiting toolthat showed bias against women, millos of black people affected by racial bias en healtch care industry,  Calgary police face reconn can violate you privacy?
           -  What if the traffic control installs sensires in every interesectioinb to count cars, then install cameras and record the liucense plates, sounds good but waht if someone stole de info?
-         -  **Six principles** in order to avoid that unintented consequences
+          -   **Six principles** in order to avoid that unintented consequences
           -  ![image](https://github.com/user-attachments/assets/3b7005a3-0141-4dc1-9eb1-d5745a505161)
    -  8
      	-  **Fairness**
