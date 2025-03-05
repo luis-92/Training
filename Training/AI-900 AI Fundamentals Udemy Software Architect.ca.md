@@ -106,7 +106,7 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
         - **Evaluate the results using regression**
           - Use the vcalidation dataset to thest the model, mesaure how close or far the actual results are from thje [predicted results
           - ***Mean Square Error** large diufferences are much that is for regression
-        - **Eva;uate the results for classification**
+        - **Evaluate the results for classification**
           - ![image](https://github.com/user-attachments/assets/37f5e357-2399-45ea-9fe1-4e4457df365d)
           - In the binbary classifications there are false positives vs false negatives
           - Compare true positives with false positives and true negatives wth false negatives this is related with accuracy vs precision
@@ -116,9 +116,17 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
           - ![image](https://github.com/user-attachments/assets/50413e82-7faf-4da4-8621-6cf0c52f3d40)
           - ![image](https://github.com/user-attachments/assets/37e157fb-6d48-4945-b175-20169c631b24)
           - ![image](https://github.com/user-attachments/assets/c34f1aaa-4f0b-417e-b7f1-aa480f9bed4d)
-
-
-
+  -  16
+     	-  **No code ML**
+        - **Automated MAchine Learning**
+        - ![image](https://github.com/user-attachments/assets/a8c70cab-c23e-441b-9690-e92f3ee0fbd6)
+        - ![image](https://github.com/user-attachments/assets/4aa629a0-f2f8-43b7-a0ca-083a10ddaf78)
+        - **Automated Machine Learning** - this is Drag and drop tool;
+        - Always remember taht we need to split the data between the training data and the validation data
+  -  17
+     	-  **No code ML**
+        - **Azure ML designer and Auto ML Azure** are no code tool
+        - 
 
 
 
