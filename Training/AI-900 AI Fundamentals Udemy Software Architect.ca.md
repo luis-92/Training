@@ -144,6 +144,30 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
   -  21
      	-  **Computer Vision**
         - USed for image clasification
+  -  28
+     -  **Describes features of gen AI workloads**
+       - ![image](https://github.com/user-attachments/assets/b4252b05-c126-48c8-a3a1-d93e89e09f8b)
+       - Gen AI is create newly content from given train data it will not replicate the data is going to create new conent based on that data examples could be artiust and non artius, imitating tghe style of a fgamouys artist or hsitorical painting techinic, face generation
+       - we can create human like responses to questions in a natural dialogue
+       - compose new music or assits muysicucians, natural sounding fakes, sound effects, video generation deep fakes realistic videos where the actor has been replaced with another, animation is able to generate an animated sequence,improving videio resolution, color correction etc
+       - OTher uses
+        - Drug discovery, game desing, securyt, simulation and modeling
+  -  28
+     -  **Natural Language Model**
+      -  NLG natural language generatior willl able to generate coherent and contextually appropaiuiate responses based on input data or prompts
+      -  Azure Open AI Service, these moidels can perform task thew models are "o1 and o1 mini limit access" "GPT 4o" "GPT 4o mini" this is teh cheapest option
+      -  Capabilities of  OpenAI for NLG
+      -  Content generation
+      -  Text summarisation
+      -  conversational aentes
+      -  codefge generation
+      -  translation
+      -  creatiuve writing
+     - Benefits are
+      - Scalability
+      - Customization
+      - Security
+      - Integration
 
 
 
