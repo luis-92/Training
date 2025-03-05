@@ -126,7 +126,24 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
   -  17
      	-  **No code ML**
         - **Azure ML designer and Auto ML Azure** are no code tool
-        - 
+  -  21
+     	-  **Computer Vision**
+        - Used for image clasification
+        - Object detection. Identify objects coordinates and attirubites
+        - Semantinc segmentation. Can be used to self driving cars  anyuthing that needs to udnerstand spaces in the images
+        - Optical character recognition
+        - Facial detection and recognition
+        - Tools for this  is Cognitive services and Computer vision serie
+        - Computver vision services
+          - pre trained ML model, reconginze over 10000 oibjectes , can generate automatic captions for images and tags, detect faces
+        - Custom Vision service
+          - A model that you can train and sahre
+          -  Face Services recognice human facen in an image, return the rectangle coordinates of thise 1 or more faces
+          - Identify API is part of azure face services
+          - Form recognizer serivce. IOt can identift an invoice pre built model or custom model
+  -  21
+     	-  **Computer Vision**
+        - USed for image clasification
 
 
 
