@@ -157,17 +157,17 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
       -  NLG natural language generatior willl able to generate coherent and contextually appropaiuiate responses based on input data or prompts
       -  Azure Open AI Service, these moidels can perform task thew models are "o1 and o1 mini limit access" "GPT 4o" "GPT 4o mini" this is teh cheapest option
       -  Capabilities of  OpenAI for NLG
-      -  Content generation
-      -  Text summarisation
-      -  conversational aentes
-      -  codefge generation
-      -  translation
-      -  creatiuve writing
-     - Benefits are
-      - Scalability
-      - Customization
-      - Security
-      - Integration
+         -  Content generation
+         -  Text summarisation
+         -  conversational aentes
+         -  codefge generation
+         -  translation
+         -  creatiuve writing
+        - Benefits are
+         - Scalability
+         - Customization
+         - Security
+         - Integration
 
 
 
