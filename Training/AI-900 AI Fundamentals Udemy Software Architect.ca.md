@@ -163,7 +163,7 @@ Link del curso: https://deloittedevelopment.udemy.com/course/ai900-azure/learn/l
          -  codefge generation
          -  translation
          -  creatiuve writing
-        - Benefits are
+       - Benefits are
          - Scalability
          - Customization
          - Security
